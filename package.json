@@ -1,0 +1,14 @@
+{
+  "name": "bot_drinkwater",
+  "version": "1.0.0",
+  "description": "bot to discord to remember \u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001bfor\u001b[1;5C\u001b[D \u001b[C\u001b[Dremember to drink water. hydrate yourself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
